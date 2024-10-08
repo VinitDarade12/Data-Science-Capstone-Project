@@ -6,6 +6,7 @@ Data Preprocessing: Handled missing values, performed one-hot encoding for categ
 Exploratory Data Analysis (EDA): Visualized data distributions, correlations, and trends using Pandas, Matplotlib, and Seaborn.
 Modeling: Built a Linear Regression model to predict car prices with a good balance between accuracy and interpretability.
 Deployment: The trained model is deployed on Streamlit for real-time predictions with user inputs. The app is hosted via Streamlit Cloud.
+![methodology](https://github.com/user-attachments/assets/f891736a-4535-40f5-a33d-ea9565a1344c)
 
 How to Use:
 Input the car’s year of manufacture and kilometers driven.
