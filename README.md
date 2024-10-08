@@ -1,6 +1,6 @@
 # Data-Science-Capstone-Project
 This project is a Machine Learning based Car Price Prediction App that uses Linear Regression to predict the selling price of a car based on features like the year of manufacture and kilometers driven.
-
+![app](https://github.com/user-attachments/assets/048d0d0c-6364-44c6-8caf-572c4ffaba68)
 Features:
 Data Preprocessing: Handled missing values, performed one-hot encoding for categorical variables, and scaled numeric features.
 Exploratory Data Analysis (EDA): Visualized data distributions, correlations, and trends using Pandas, Matplotlib, and Seaborn.
