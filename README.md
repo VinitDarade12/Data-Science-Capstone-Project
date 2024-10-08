@@ -10,8 +10,6 @@ Deployment: The trained model is deployed on Streamlit for real-time predictions
 
 ![methodology](https://github.com/user-attachments/assets/f891736a-4535-40f5-a33d-ea9565a1344c)
 
-![categorical data](https://github.com/user-attachments/assets/2d92c325-76f5-4233-9624-418d0aae50bf)
-
 How to Use:
 Input the car’s year of manufacture and kilometers driven.
 Click Predict to see the predicted selling price.
